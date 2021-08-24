@@ -14,7 +14,7 @@ The algorithm is part of a series of repositories for a Machine Learning-based v
 - Export the model and results to a S3 bucket
 - Write the video clusters in a Postgress SQL database
 
-
+![Alt text](diagram.png "Main Structure")
 
 ## Installation
 
