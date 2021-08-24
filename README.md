@@ -4,13 +4,13 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=mastering)](https://travis-ci.org/joemccann/dillinger)
 
 The algorithm is part of a series of repositories for a Machine Learning-based video recomendation system for a web applications users. The three fundamental purposes of this algorithm are:
-1. To create a set of video clusters based on the AWS Rekognition tags for the videos using a unsupervised machine learning algorithm.
-2. To create a cluster classifier for new (out of training) videos using a esemble learning model.
+1. To create a set of video clusters based on the AWS Rekognition tags for the videos using an unsupervised machine learning algorithm.
+2. To create a cluster classifier for new (out of training) videos using an ensemble learning model.
 3. To create a bit-wise dataframe to perform quick and efficient vertorized operations.
 
 ## Features
 
-- Import a csv file with the videos tags
+- Import a csv file with the video tags
 - Export the model and results to a S3 bucket
 - Write the video clusters in a Postgress SQL database
 
@@ -18,7 +18,7 @@ The algorithm is part of a series of repositories for a Machine Learning-based v
 
 ## Installation
 
-for thesting purposes we porpose using python 3.8.* with a 64-bits machine. 
+For testing purposes we porpose using python 3.8.* with a 64-bits machine. 
 
 Clone the repository and Install the dependencies 
 
