@@ -1,0 +1,10 @@
+boto3 
+numpy
+pandas
+sklearn
+scipy
+sqlalchemy
+psycopg2
+nltk
+googletrans
+flask
